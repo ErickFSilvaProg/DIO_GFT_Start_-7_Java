@@ -3,12 +3,12 @@ GFT Start #7 - Java
 
 > 1. Princípios de Desenvolvimento De Aplicações
 > 
-> - Introdução ao GFT Start #7
-> - Introdução ao Java e seu Ambiente de Desenvolvimento
-> - Versionamento de código com Git e GitHub
-> - Desafios de projetos: Crie um portifólio vencedor
-> - Contribuindo em um projeto open source no GitHub
-> - Live de lançamento - Bootcamp GFT Start #7
+>   - Introdução ao GFT Start #7
+>   - Introdução ao Java e seu Ambiente de Desenvolvimento
+>   - Versionamento de código com Git e GitHub
+>   - Desafios de projetos: Crie um portifólio vencedor
+>   - Contribuindo em um projeto open source no GitHub
+>   - Live de lançamento - Bootcamp GFT Start #7
 > 
 > 2. Sintaxe Básica com Java
 > 
